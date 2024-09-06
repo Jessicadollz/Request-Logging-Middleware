@@ -1,0 +1,17 @@
+{
+  "name": "logging_middleware_using_morgan",
+  "version": "1.0.0",
+  "description": "Implementing Request Logging Middleware in Node.js with Express and Morgan",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jessica Dolly",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "morgan": "^1.10.0",
+    "winston": "^3.14.2"
+  }
+}

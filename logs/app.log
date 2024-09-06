@@ -1,0 +1,9 @@
+2024-09-06T08:53:13.132Z info: Received a GET request for /
+2024-09-06T08:53:13.144Z error: This is an error message
+2024-09-06T08:53:13.145Z warn: This is a warning message
+2024-09-06T08:53:13.146Z info: This is an info message
+2024-09-06T08:53:13.148Z info: Request received: 
+2024-09-06T08:53:13.900Z info: Received a GET request for /favicon.ico
+2024-09-06T08:55:43.918Z info: Received a GET request for / from IP: ::1 at 2024-09-06T08:55:43.915Z
+2024-09-06T08:57:10.056Z info: Received a GET request for / from IP: ::1 at 2024-09-06T08:57:10.056Z
+2024-09-06T08:57:47.601Z info: Received a POST request for / from IP: ::1 at 2024-09-06T08:57:47.601Z
